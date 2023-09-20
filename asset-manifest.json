@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fantastic-winner/static/css/main.073c9b0a.css",
+    "main.js": "/fantastic-winner/static/js/main.847fbaea.js",
+    "static/js/787.3fe30f6c.chunk.js": "/fantastic-winner/static/js/787.3fe30f6c.chunk.js",
+    "static/media/logo.svg": "/fantastic-winner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fantastic-winner/index.html",
+    "main.073c9b0a.css.map": "/fantastic-winner/static/css/main.073c9b0a.css.map",
+    "main.847fbaea.js.map": "/fantastic-winner/static/js/main.847fbaea.js.map",
+    "787.3fe30f6c.chunk.js.map": "/fantastic-winner/static/js/787.3fe30f6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.847fbaea.js"
+  ]
+}
